@@ -1,5 +1,6 @@
 # string2wav
 
+Speaks text files to wav using Microsoft Speech API 
 An windows analog of unix "text2wave" application, based on Microsoft SAPI (Speech API) that speak text from file or string, by choosen voice.
 
 Work with "UTF-8", "UTF-8 with BOM", "ANSI" encoded files
