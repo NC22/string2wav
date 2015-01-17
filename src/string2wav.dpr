@@ -118,7 +118,7 @@ begin
         writeln('   string2wav.exe -p1 <value> -p2 <value> ... -pN <value>');
         writeln('   ');
         writeln('Arguments:');
-        writeln('   -list       List voices and the number');
+        writeln('   -list       List available voices');
         writeln('   -volume     Set volume from 0 to 10');
         writeln('   -rate       Set rate from -10 to 10');
         writeln('   -o          Set output wav file name');

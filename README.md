@@ -21,13 +21,13 @@ See dist/test.bat for example commands
 
 Available options :
 
-**-list** : List voices and the number<br>
+**-list** : List available voices<br>
 **-volume** : Set volume from 0 to 10<br>
 **-rate** : Set rate from -10 to 10<br>
-**-o** : Set output wav file name<br>
+**-o** : Set output wav file name (absolute or relative path)<br>
 **-voice** : Set voice (select by number from -list)<br>
 **-s** : Set string (use quotes, recommend only English)<br>
-**-f** : Load string from file<br>
+**-f** : Set input file to load string from (absolute or relative path)<br>
 
 ## License 
 
